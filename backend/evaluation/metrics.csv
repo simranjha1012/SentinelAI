@@ -1,0 +1,4 @@
+System,Accuracy,Precision,Recall,F1,FPR,TN,FP,FN,TP
+Pattern Agent,0.65,1.0,0.3,0.46153846153846156,0.0,10,0,7,3
+Intent Agent,0.3,0.0,0.0,0.0,0.4,6,4,10,0
+SentinelAI,0.45,0.42857142857142855,0.3,0.35294117647058826,0.4,6,4,7,3

@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# SentinelAI temporary files
+__pycache__/
+*.py[cod]
+backend/evaluation/intent_cache.json
+backend/evaluation/evaluate_backup.py
+.env.*
